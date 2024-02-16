@@ -1,0 +1,84 @@
+.fundo {
+    position: fixed;
+    width: 100%;
+}
+
+.foto-vannila-tweaks {
+    position: fixed;
+    width: 10%;
+    top: 250px;
+    left: 20px;
+}
+
+.texto-vannila-tweaks {
+    position: fixed;
+    top: 230px;
+    left: 15px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.foto-chunck-base {
+    position: fixed;
+    width: 10%;
+    top: 250px;
+    left: 270px;
+}
+
+.texto-chunck-base {
+    position: fixed;
+    top: 230px;
+    left: 280px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.texto-craftings {
+    position: fixed;
+    top: 230px;
+    left: 590px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.foto-craftings {
+    position: fixed;
+    width: 15%;
+    top: 262px;
+    left: 540px;
+}
+
+.texto-encantamentos {
+    position: fixed;
+    top: 230px;
+    left: 875px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.foto-encantamentos {
+    position: fixed;
+    width: 10%;
+    top: 250px;
+    left: 880px;
+}
+
+.texto-aternos {
+    position: fixed;
+    top: 230px;
+    left: 1155px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.foto-aternos {
+    position: fixed;
+    width: 10%;
+    top: 250px;
+    left: 1130px;
+}
